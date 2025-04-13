@@ -1,4 +1,4 @@
-# Andreandhiki's GitHub 👋
+# 👋 | Andreandhiki's GitHub
 
 ### Projects
 - 📌 [Renjana Furniture](https://renjanafurniture.com)
