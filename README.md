@@ -1,12 +1,11 @@
 # 👋 | Andreandhiki's GitHub
 
 ### Projects
-- 📌 [OmahTOBK](https://omahtobk-static.vercel.app)
+- 📌 [JOINMUN 2025](https://joinmun.id)
+- 📌 [PIONIR Gadjah Mada 2025](https://pionir.ugm.ac.id)
 - 📌 [Renjana Furniture](https://renjanafurniture.com)
 - 📌 [Porsenigama 2024](https://porsenigama24-porto.vercel.app/)
 - 📌 [Oprec Makomti 2025](https://oprec-25-static.vercel.app/)
-- 📌 [OemOem 2024](#)
-- 📌 [LAHHGO](#)
 
 ### Get in Touch
 - 📧 [andhikiandre@gmail.com](mailto:andhikiandre@gmail.com)  
