@@ -9,4 +9,4 @@
 
 ### Get in Touch
 - 📧 [andhikiandre@gmail.com](mailto:andhikiandre@gmail.com)  
-- 🌐 [LinkedIn](https://linkedin.com/andreandhiki) | [Portfolio](https://andreandhiki.vercel.app)
+- 🌐 [LinkedIn](https://linkedin.com/andreandhiki) | [Portfolio](https://andreeeandhiki.vercel.app)
