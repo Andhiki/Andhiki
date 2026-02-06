@@ -1,6 +1,7 @@
 # 👋 | Andreandhiki's GitHub
 
 ### Projects
+- 📌 [Bimbel Beta](https://bimbelbeta.com/)
 - 📌 [Habitutor](https://habitutor.id/)
 - 📌 [Castle Academy (Landing Page)](https://castleacademy.netlify.app)
 - 📌 [Dompetin Aja](https://dompetinaja.com)
@@ -14,4 +15,4 @@
 ### Get in Touch
 - 📧 Email - [andhikiandre@gmail.com](mailto:andhikiandre@gmail.com)  
 - 🌐 [LinkedIn](https://linkedin.com/andreandhiki)
-- 🌐 [Portfolio](https://andreeeandhiki.vercel.app)
+- 🌐 [Portfolio](https://andhiki.tech)
