@@ -1,6 +1,7 @@
 # 👋 | Andreandhiki's GitHub
 
 ### Projects
+- 📌 [Cogito Academy](https://cogitoacademy.vercel.app/)
 - 📌 [Bimbel Beta](https://bimbelbeta.com/)
 - 📌 [Habitutor](https://habitutor.id/)
 - 📌 [Castle Academy (Landing Page)](https://castleacademy.netlify.app)
